@@ -25,7 +25,7 @@ The model must be installed along with the [wink-nlp](https://winkjs.org/wink-nl
 # Install wink-nlp
 npm install wink-nlp --save
 # Install wink-eng-lite-model
-npm install https://github.com/winkjs/wink-eng-lite-model/releases/download/0.1.0/wink-eng-lite-model-0.1.0.tgz --save
+npm install https://github.com/winkjs/wink-eng-lite-model/releases/download/0.1.0/wink-eng-lite-model-0.2.0.tgz --save
 ```
 
 #### Example
