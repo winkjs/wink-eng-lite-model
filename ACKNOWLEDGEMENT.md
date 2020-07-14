@@ -12,7 +12,8 @@ The person who associated a work with this deed has dedicated the work to the pu
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 Reference:
-1.  [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
+1. [https://www.wikidata.org/](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+2. [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
 
 # Wordnet 3.0
 
@@ -22,7 +23,8 @@ WordNet® is a large lexical database of English. Nouns, verbs, adjectives and a
 WordNet Release 3.0 This software and database is being provided to you, the LICENSEE, by Princeton University under the following license. By obtaining, using and/or copying this software and database, you agree that you have read, understood, and will comply with these terms and conditions.: Permission to use, copy, modify and distribute this software and database and its documentation for any purpose and without fee or royalty is hereby granted, provided that you agree to comply with the following copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the software, database and documentation, including modifications that you make for internal use or for distribution. WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved. THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS. The name of Princeton University or Princeton may not be used in advertising or publicity pertaining to distribution of the software and/or database. Title to copyright in this software, database and any associated documentation shall at all times remain with Princeton University and LICENSEE agrees to preserve same.
 
 Reference:
-1.  [https://wordnet.princeton.edu/license-and-commercial-use](https://wordnet.princeton.edu/license-and-commercial-use)
+1. [https://wordnet.princeton.edu/](https://wordnet.princeton.edu/)
+2. [https://wordnet.princeton.edu/license-and-commercial-use](https://wordnet.princeton.edu/license-and-commercial-use)
 
 # fnTBL
 fnTBL is a customizable, portable and free source machine-learning toolkit primarily oriented towards Natural Language-releated tasks (POS tagging, base NP chunking, text chunking, EOS detection, word sense disambiguation). It can handle reasonably sized, discrete classification task (i.e. the samples can be characterized as vectors with discrete components).
@@ -38,7 +40,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Reference:
-1.  [https://www.cs.jhu.edu/~rflorian/fntbl/license.html](https://www.cs.jhu.edu/~rflorian/fntbl/license.html)
+1. [http://www.cs.jhu.edu/~rflorian/fntbl/](http://www.cs.jhu.edu/~rflorian/fntbl/)
+2. [https://www.cs.jhu.edu/~rflorian/fntbl/license.html](https://www.cs.jhu.edu/~rflorian/fntbl/license.html)
 
 # ML-SentiCon
 This resource contains lemma-level sentiment lexicons at lemma level for English, Spanish, Catalan, Basque and Galician. For each lemma, it provides an estimation of polarity (from very negative -1.0 to very positive +1.0), and a standard deviation (related with ambiguity of the polarity estimation, please refer to paper for further details).
@@ -48,7 +51,7 @@ These lexicons are layered, allowing to trade off between the amount of availabl
 Cruz, Fermín & Troyano, José & Pontes, Beatriz & Ortega, F. Javier. (2014). ML-SentiCon: A multilingual, lemma-level sentiment lexicon. Procesamiento de Lenguaje Natural. 53. 113-120. 
 
 # Emoji Sentiment Ranking
-A lexicon of 751 emoji characters with automatically assigned sentiment. The sentiment is computed from 70,000 tweets, labeled by 83 human annotators in 13 European languages. The process and analysis of emoji sentiment ranking is described in the paper: P. Kralj Novak, J. Smailović, B. Sluban, I. Mozetič, Sentiment of Emojis, submitted; arXiv preprint, [http://arxiv.org/abs/1509.07761](http://arxiv.org/abs/1509.07761), 2015.
+A lexicon of 751 emoji characters with automatically assigned sentiment. The sentiment is computed from 70,000 tweets, labeled by 83 human annotators in 13 European languages. The process and analysis of emoji sentiment ranking is described in the paper: P. Kralj Novak, J. Smailović, B. Sluban, I. Mozetič, Sentiment of Emojis, submitted; arXiv preprint, 2015.
 
 ### License Summary
 You are free to
@@ -63,8 +66,9 @@ Attribution — You must give appropriate credit, provide a link to the license,
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 References:
-1.  [https://figshare.com/articles/Emoji\_Sentiment\_Ranking/1600931/1](https://figshare.com/articles/Emoji_Sentiment_Ranking/1600931/1)
-2.  [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+1. [http://arxiv.org/abs/1509.07761](http://arxiv.org/abs/1509.07761)
+2. [https://figshare.com/articles/Emoji\_Sentiment\_Ranking/1600931/1](https://figshare.com/articles/Emoji_Sentiment_Ranking/1600931/1)
+3. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 # wink-lexicon
 English lexicon useful in NLP/NLU. It is licensed under the terms of the MIT License.
@@ -85,5 +89,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 Reference:
-1. https://github.com/winkjs/wink-lexicon
+1. [https://github.com/winkjs/wink-lexicon](https://github.com/winkjs/wink-lexicon)
+2. [https://github.com/winkjs/wink-lexicon/blob/master/LICENSE](https://github.com/winkjs/wink-lexicon/blob/master/LICENSE)
 
