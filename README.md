@@ -1,8 +1,8 @@
 # wink-eng-lite-model
-English lite language model for wink-nlp.
+English lite language model for winkNLP.
 
 [<img align="right" src="https://decisively.github.io/wink-logos/logo-title.png" width="100px" >](http://wink.org.in/)
-This is a pre-trained English language model for the winkjs NLP package — [wink-nlp](https://winkjs.org/wink-nlp/). The lite model package has a size of under 800KB, which expands to about 2.4MB after installation. It contains models for the following NLP tasks:
+This is a pre-trained English language model for the winkjs NLP package — [Wink NLP](https://winkjs.org/wink-nlp/). The lite model package has a size of under 800KB, which expands to about 2.4MB after installation. It contains models for the following NLP tasks:
 
 1. Tokenization
 2. Token's Feature Extraction
@@ -25,7 +25,7 @@ The model must be installed along with the [wink-nlp](https://winkjs.org/wink-nl
 # Install wink-nlp
 npm install wink-nlp --save
 # Install wink-eng-lite-model
-npm install https://github.com/winkjs/wink-eng-lite-model/releases/download/0.2.0/wink-eng-lite-model-0.2.0.tgz --save
+node -e "require( 'wink-nlp/models/install' )" wink-eng-lite-model
 ```
 
 #### Example
