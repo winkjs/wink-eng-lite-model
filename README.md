@@ -1,7 +1,7 @@
 # wink-eng-lite-model
 English lite language model for winkNLP.
 
-[<img align="right" src="https://decisively.github.io/wink-logos/logo-title.png" width="100px" >](http://wink.org.in/)
+[<img align="right" src="https://decisively.github.io/wink-logos/logo-title.png" width="100px" >](https://winkjs.org/)
 This is a pre-trained English language model for the winkjs NLP package — [Wink NLP](https://winkjs.org/wink-nlp/). The lite model package has a size of under 800KB, which expands to about 2.4MB after installation. It contains models for the following NLP tasks:
 
 1. Tokenization
@@ -54,11 +54,11 @@ Check out the wink-nlp's [concepts](https://winkjs.org/wink-nlp/getting-started.
 If you spot a bug and the same has not yet been reported, raise a new [issue](https://github.com/winkjs/wink-eng-lite-model/issues).
 
 ### About wink
-[Wink](http://winkjs.org/) is a family of open source packages for **Natural Language Processing**, **Machine Learning** and **Statistical Analysis** in NodeJS. The code is **thoroughly documented** for easy human comprehension and has a **test coverage of ~100%** for reliability to build production grade solutions.
+[Wink](https://winkjs.org/) is a family of open source packages for **Natural Language Processing**, **Machine Learning** and **Statistical Analysis** in NodeJS. The code is **thoroughly documented** for easy human comprehension and has a **test coverage of ~100%** for reliability to build production grade solutions.
 
 
 ### Copyright & License
-The **wink-eng-lite-model** is copyright 2020 of [GRAYPE Systems Private Limited](http://graype.in/).
+The **wink-eng-lite-model** is copyright 2020 of [GRAYPE Systems Private Limited](https://graype.in/).
 
 It is licensed under the terms of the MIT License.
 
