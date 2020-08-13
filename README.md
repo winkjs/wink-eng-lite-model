@@ -1,8 +1,10 @@
 # wink-eng-lite-model
-English lite language model for winkNLP.
+**English lite language model for winkNLP**
 
 [<img align="right" src="https://decisively.github.io/wink-logos/logo-title.png" width="100px" >](https://winkjs.org/)
-This is a pre-trained English language model for the winkjs NLP package — [Wink NLP](https://winkjs.org/wink-nlp/). The lite model package has a size of under 800KB, which expands to about 2.4MB after installation. It contains models for the following NLP tasks:
+This is a pre-trained English language model for the winkjs NLP package — [Wink NLP](https://winkjs.org/wink-nlp/). The lite model package has a size of under 800KB, which expands to about 2.4MB after installation. It is an open-source language model, released under the MIT license.
+
+It contains models for the following NLP tasks:
 
 1. Tokenization
 2. Token's Feature Extraction
@@ -46,9 +48,11 @@ console.log(doc.out());
 // -> Hello   World!
 ```
 
-
 #### Documentation
 Check out the wink-nlp's [concepts](https://winkjs.org/wink-nlp/getting-started.html) and  [API reference](https://winkjs.org/wink-nlp/read-doc.html) to learn more about the package.
+
+### Storage Structure
+The model is contained in the standard [NPM tarball](https://docs.npmjs.com/cli-commands/pack.html) format. You can find it under the latest [release](https://github.com/winkjs/wink-eng-lite-model/releases). The model is stored in form of trained data in JSON and binary formats. Apart from the data, there is a tiny fraction of JS glue code, which is primarily used during model loading.
 
 ### Need Help?
 If you spot a bug and the same has not yet been reported, raise a new [issue](https://github.com/winkjs/wink-eng-lite-model/issues).
