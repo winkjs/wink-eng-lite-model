@@ -50,7 +50,7 @@ console.log(doc.out());
 ```
 
 ### Documentation
-Learn how to use this model with wink NLP from the following resources:
+Learn how to use this model with winkNLP from the following resources:
 - [Overview](https://winkjs.org/wink-nlp/) — introduction to winkNLP.
 - [Concepts](https://winkjs.org/wink-nlp/getting-started.html) — everything you need to know to get started.
 - [API Reference](https://winkjs.org/wink-nlp/read-doc.html) — explains usage of APIs with examples.
