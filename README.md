@@ -2,7 +2,7 @@
 **English lite language model for winkNLP**
 
 [<img align="right" src="https://decisively.github.io/wink-logos/logo-title.png" width="100px" >](https://winkjs.org/)
-This is a pre-trained English language model for the winkjs NLP package — [Wink NLP](https://winkjs.org/wink-nlp/). The lite model package has a size of under 825KB, which expands to about 2.4MB after installation. It is an open-source language model, released under the MIT license.
+This is a pre-trained English language model for the winkjs NLP package — [winkNLP](https://winkjs.org/wink-nlp/). The lite model package has a size of under 825KB, which expands to about 2.4MB after installation. It is an open-source language model, released under the MIT license.
 
 It contains models for the following NLP tasks:
 
