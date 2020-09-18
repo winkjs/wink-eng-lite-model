@@ -58,7 +58,7 @@ Learn how to use this model with winkNLP from the following resources:
 
 ## About model
 ### Performance
-The [winkNLP](https://winkjs.org/wink-nlp/) processes raw text at **>600,000 tokens per second** with this model, when [benchmarked](https://github.com/bestiejs/benchmark.js) using "Ch 13 of Ulysses by James Joyce" on a 2.2 GHz Intel Core i7 machine with 16GB RAM. The benchmark covered the entire NLP pipeline — tokenization, sentence boundary detection, negation handling, sentiment analysis, part-of-speech tagging, and named entity extraction.
+The [winkNLP](https://winkjs.org/wink-nlp/) processes raw text at **>525,000 tokens per second** with this model, when [benchmarked](https://github.com/bestiejs/benchmark.js) using "Ch 13 of Ulysses by James Joyce" on a 2.2 GHz Intel Core i7 machine with 16GB RAM. The benchmark covered the entire NLP pipeline — tokenization, sentence boundary detection, negation handling, sentiment analysis, part-of-speech tagging, and named entity extraction.
 
 ### Tokenization
 While it is trained to process English language text, it can tokenize text containing other languages such as Hindi, French and German. Such tokens are tagged as **X** (foreign word) during pos tagging.
