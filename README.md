@@ -15,7 +15,8 @@ It contains models for the following NLP tasks:
 7. Named Entity Recognition
 8. Sentiment Analysis
 9. Custom Entities Definition
-10. *Lemmatization (upcoming)*
+10. Stemming using Porter Stemmer Algorithm V2
+11. *Lemmatization (upcoming)*
 
 
 
