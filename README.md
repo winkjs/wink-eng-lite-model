@@ -2,7 +2,7 @@
 **English lite language model for winkNLP**
 
 [<img align="right" src="https://decisively.github.io/wink-logos/logo-title.png" width="100px" >](https://winkjs.org/)
-This is a pre-trained English language model for the winkjs NLP package — [winkNLP](https://winkjs.org/wink-nlp/). The lite model package has a size of under 825KB, which expands to about 2.4MB after installation. It is an open-source language model, released under the MIT license.
+This is a pre-trained English language model for the winkjs NLP package — [winkNLP](https://winkjs.org/wink-nlp/). The lite model package has a size of ~890KB, which expands to about 2.4MB after installation. It is an open-source language model, released under the MIT license.
 
 It contains models for the following NLP tasks:
 
@@ -16,7 +16,7 @@ It contains models for the following NLP tasks:
 8. Sentiment Analysis
 9. Custom Entities Definition
 10. Stemming using Porter Stemmer Algorithm V2
-11. *Lemmatization (upcoming)*
+11. Lemmatization
 
 
 
@@ -85,7 +85,7 @@ If you spot a bug and the same has not yet been reported, raise a new [issue](ht
 
 
 ## Copyright & License
-The **wink-eng-lite-model** is copyright 2020 of [GRAYPE Systems Private Limited](https://graype.in/).
+The **wink-eng-lite-model** is copyright 2020-21 of [GRAYPE Systems Private Limited](https://graype.in/).
 
 It is licensed under the terms of the MIT License.
 
