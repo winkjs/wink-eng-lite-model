@@ -17,6 +17,7 @@ It contains models for the following NLP tasks:
 9. Custom Entities Definition
 10. Stemming using Porter Stemmer Algorithm V2
 11. Lemmatization
+12. Readability statistics computation
 
 
 
